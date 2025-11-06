@@ -34,11 +34,11 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 SOURCE = getenv("SOURCE", "https://files.catbox.moe/uyfhoe.mp4")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/harshnu12035/Baaappppp")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "t.me/ll_TOXICC_PAPA_ll")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kittuu_support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kittuu_updates")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+BmZRuUL3gYc5NzI9")
 CHAT = getenv("CHAT", "https://t.me/+BmZRuUL3gYc5NzI9")
 
