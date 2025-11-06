@@ -34,7 +34,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 SOURCE = getenv("SOURCE", "https://files.catbox.moe/uyfhoe.mp4")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "t.me/ll_TOXICC_PAPA_ll")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/toxicpapa00/clonemusic")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
